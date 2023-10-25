@@ -1,0 +1,10 @@
+.menu__header {
+    display: flex;
+    align-items: center;
+}
+
+.menu__title {
+    font-size: 18px;
+    margin-left: 10px;
+}
+

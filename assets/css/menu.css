@@ -1,0 +1,20 @@
+.menu {
+    background-color: #333;
+    color: #fff;
+}
+
+.menu__list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu__list__item {
+    margin: 10px;
+}
+
+.menu__list__item a {
+    color: #fff;
+}
+

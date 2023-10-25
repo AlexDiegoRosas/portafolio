@@ -1,0 +1,38 @@
+.title {
+    background-image: url("assets/img/background-image.png");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 100px 0;
+    color: #000000;
+}
+
+.title__container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.title__bio {
+    font-size: 24px;
+}
+
+.title__subsection {
+    font-size: 16px;
+    margin: 20px 0;
+}
+
+.title__network {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.title__network__item {
+    margin: 0 10px;
+}
+
+.title__profile {
+    border-radius: 50%;
+}
+

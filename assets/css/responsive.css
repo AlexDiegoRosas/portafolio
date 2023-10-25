@@ -1,0 +1,20 @@
+@media (max-width: 768px) {
+    .menu__list {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        background-color: #333;
+        width: 100%;
+    }
+
+    .menu__list__item {
+        margin: 10px 0;
+    }
+
+    .menu__list.show {
+        display: flex;
+    }
+}
+
